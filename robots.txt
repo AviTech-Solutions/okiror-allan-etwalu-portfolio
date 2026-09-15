@@ -3,4 +3,4 @@ Allow: /
 
 Sitemap: https://portfolio.avitechsolutions.site/sitemap.xml
 
-Disallow: https://portfolio.avitechsolutions.site/readme.md
+Disallow: https://portfolio.avitechsolutions.site/README.md
