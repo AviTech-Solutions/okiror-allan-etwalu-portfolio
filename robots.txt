@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://xcode-avitech.github.io/okiror-allan-portfolio/sitemap.xml
+Sitemap: https://portfolio.avitechsolutions.site/sitemap.xml
+
+Disallow: https://portfolio.avitechsolutions.site/readme.md
