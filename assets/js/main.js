@@ -11,7 +11,7 @@ const projects = [
       "Structured content sections"
     ],
     live: "",
-    github: "https://xcode-avitech.github.io/Tapoh-Fc"
+    github: "https://avitech-solutions.github.io/Tapoh-Fc"
   },
 
   {
@@ -25,7 +25,7 @@ const projects = [
       "Responsive website",
       "Digital solutions showcase"
     ],
-    live: "https://xcode-avitech.github.io/AviTech-Solutions",
+    live: "https://www.avitechsoltions.site",
     github: ""
   },
 
@@ -41,7 +41,7 @@ const projects = [
       "Security and ICT solutions showcase"
     ],
     live: "",
-    github: "https://xcode-avitech.github.io/bks-demo-website"
+    github: "https://avitech-solutions.github.io/bks-demo-website"
   },
 
   {
@@ -56,7 +56,7 @@ const projects = [
       "Personal profile presentation"
     ],
     live: "",
-    github: "https://xcode-avitech.github.io/JPaul_Kabonge"
+    github: "https://avitech-solutions.github.io/JPaul_Kabonge"
   }
 ];
 
